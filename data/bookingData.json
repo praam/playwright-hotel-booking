@@ -1,0 +1,11 @@
+
+  {
+    "firstname": "Test",
+    "lastname": "User",
+    "email": "testuser@gmail.com",
+    "phone": "1234567890",
+    "checkInDate": "2025-10-04",
+    "checkOutDate": "2025-10-05",
+    "roomType": "Family Room"
+  }
+
